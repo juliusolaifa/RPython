@@ -1,1 +1,2 @@
-T
+TRUE = T = True
+FALSE = F = False
